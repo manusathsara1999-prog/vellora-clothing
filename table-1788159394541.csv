@@ -1,0 +1,12 @@
+﻿File,Description
+`index.html`,"Home page with hero, featured collections, new arrivals, best sellers, brand story, testimonials, social showcase, newsletter"
+`shop.html`,Full product catalogue with category filtering and sorting
+`product.html`,"Dynamic product detail page with image gallery, size selector, quantity, add to cart/buy now"
+`about.html`,"Brand story page with philosophy, values, and Sri Lankan heritage"
+`contact.html`,"Contact info, form, map, click-to-call, WhatsApp buttons"
+`cart.html`,Fully functional shopping cart with quantity controls and order summary
+`checkout.html`,"Complete checkout with delivery info, all Sri Lankan districts, payment options"
+`order-confirmation.html`,Professional order confirmation with details and WhatsApp support
+`size-guide.html`,Clean size chart with measurement tips
+`css/style.css`,Premium dark luxury design system (~39KB)
+`js/main.js`,"Full e-commerce engine with cart, search, filters, checkout (~32KB)"
